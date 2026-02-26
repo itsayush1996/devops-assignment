@@ -43,4 +43,5 @@ jobs:
         python manage.py check || echo "Check Done"
 
     - name: Deployment Step
-      run: echo "Deploy Success 🚀"
+      run: echo "Deploy Success "
+      # trigger
